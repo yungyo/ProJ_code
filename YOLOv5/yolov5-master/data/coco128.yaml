@@ -11,7 +11,7 @@
 path: D:/dbsry2021/capd_git/ProJ_code/YOLOv5/yolov5-master  # dataset root dir
 train: coco128/images  # train images (relative to 'path') 128 images
 val: coco128/labels # val images (relative to 'path') 128 images
-test:  # test images (optional)
+#test:  # test images (optional)
 
 # Classes
 nc: 1 # number of classes
